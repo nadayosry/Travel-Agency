@@ -1,0 +1,44 @@
+
+* {
+    list-style: none;
+    font-family:  sans-serif;
+    text-decoration: none;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+    
+}
+
+
+
+
+.ipp:hover{
+    color: blue;
+    transform:rotate(45deg) ;
+}
+.pp :hover{
+    color: aqua;
+    background-color:gray;
+}
+.social :hover{
+    color: blue;
+    cursor: pointer;
+    
+    
+   
+    
+}
+.navv li a {
+    text-decoration: none;
+    padding: 4px;
+    color: black;
+    display: flex;
+}
+
+.navv li :hover{
+    background-color: blue;
+   border-radius: 3px ;
+   
+   
+}
